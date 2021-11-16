@@ -9,7 +9,5 @@ Even when environments deteriorate gradually, ecosystems may shift abruptly from
 
 Files:
   - "Landscape_desing.R": Functions to generate landscapes with various structures.
-  
-	- "Dynamics_functions.R": Functions to run a metapopulation model on said landscapes.
-	
-	- "Minimal_working_example.R": A script showing how to use the above code.
+  - "Dynamics_functions.R": Functions to run a metapopulation model on said landscapes.
+  - "Minimal_working_example.R": A script showing how to use the above code.
